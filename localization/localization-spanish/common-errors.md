@@ -8,7 +8,7 @@ El fundamento de esta recomendación es que la traducción de elementary se pret
 
 Esto es más difícil de lo que parece, ya que cada región tiene expresiones que, aunque pueden sonar bien en una zona, sonarán mal o fuera de tono en otra. La recomendación aquí es utilizar fuentes como el [diccionario de la lengua española RAE](https://dle.rae.es/) para obtener información sobre una palabra o expresión y observar si es algo específico de una región o no.
 
-Por esta misma razón, se debe ser lo más neutral posible al expresarse al usuario. Se debe evitar tanto el voseo y el tuteo, como formas coloquiales de referencia al usuario, por la misma razón expuesta anteriormente.
+Por esta misma razón, se debe ser lo más neutral posible al expresarse hacia el usuario. Se debe evitar tanto el voseo y el tuteo, como formas coloquiales de referencia al usuario.
 
 ## Ejemplo
 
@@ -56,11 +56,11 @@ Nótese que utilizar el verbo _restarting_ como «reiniciando» no tendría sent
 
 ## Evite el uso de comillas inglesas o sencillas
 
-En español, las comillas inglesas (“, ” o ") o comillas sencillas (` o ') no se utilizan a menos que sea absolutamente necesario. De manera predeterminada, siempre usaremos comillas españolas o angulares (« y ») para textos comunes para el usuario.
+En español, las comillas inglesas (“, ” o ") y las comillas sencillas o de «hacker» (` o ') no se utilizan a menos que sea absolutamente necesario. De manera predeterminada, siempre usaremos comillas españolas o angulares (« y ») para textos comunes hacia el usuario.
 
 Excepciones para utilizar las comillas inglesas o de hacker son:
 
-* Secciones de código de ejemplo de lenguajes de programación como Vala, donde la sintaxis exige el uso de comillas inglesas o comillas simples.
+* Secciones de código de ejemplo de lenguajes de programación como Vala, Python o C, donde la sintaxis exige el uso de comillas inglesas o comillas simples.
 * Etiquetas de navegador internas del lenguaje HTML, Markdown que exigen el uso de comillas simples y no se pueden cambiar. De lo contrario, el formato de estos lenguajes se rompería.
 
 En Linux, estos caracteres se pueden escribir con la combinación de teclas Alt Gr + Z y Alt Gr + X, respectivamente, con las distribuciones de teclado hispanoamericanas con teclas muertas. En Windows esto se realiza con la combinación Alt + 174 y Alt + 175, respectivamente.
@@ -222,11 +222,11 @@ Se podría traducir a:
 
 > Hubo un error inesperado mientras se enviaba su mensaje.
 
-Pero la semantica resulta un poco extraña. El pronombre reflexivos nos ayuda a mencionar que este fue un evento que ya ocurrió, fue registrado
-
-en cuyo caso preferimos traducilor a:
+Pero la semántica resulta un poco extraña. Un pronombre reflexivo nos ayuda a mencionar que esto fue un evento que ya ocurrió, pero que además ha sido registrado. en cuyo caso preferimos traducirlo a:
 
 > Se ha producido un error inesperado al enviar el mensaje.
+
+Nótese también que _your message_ se ha traducido a «el mensaje» en referencia a la recomendación de reducir el exceso de cortesía evitando la segunda persona, algo mencionado anteriormente.
 
 ### Ejemplo cuatro
 

@@ -9,6 +9,8 @@ A continuación se encuentra una lista de términos generales que pueden aparece
 | Nombre en inglés | Nombre en español | Notas |
 | --- | --- | --- |
 | Click | Clic | A pesar de que «pulsar» es correcto, se prefiere «clic» o «hacer clic» en lo posible |
+| Hover | Pasar el puntero [del ratón] | Existen varias formas de expresar esto, pero preferimos esta |
+| Tooltip | Descripción emergente | Es posible usar «sugerencia en pantalla» si el contexto lo amerita, cuando se refiere a _hints_ o «pistas» del uso de un programa |
 | Manage, manager | Gestionar, gestor | Se puede usar «administrar» pero se prefiere primero ver si «gestión», «gestor» o «gestionar» funciona bien en el contexto. |
 | Management | Administrar | Se la misma manera que manage, si desea usar «gestionar», asegúrese de que suene bien en contexto. |
 | Toggle | Activar o desactivar | Nótese que es toda la frase «activar o desactivar». Es posible usar «mostrar u ocultar» «alternar» o «intercambiar» si el contexto lo amerita. |
